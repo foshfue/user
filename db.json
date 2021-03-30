@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "name": { "first": "Florence", "last": "Williams" },
+      "location": {
+        "street": { "number": 5838, "name": "Regent Ave" },
+        "city": "Armstrong",
+        "state": "Ontario",
+        "country": "Canada",
+        "postcode": "K9X 3T9"
+      },
+      "email": "florence.williams@example.com",
+      "login": {
+        "uuid": "7fc19c0a-4bd4-4891-88b4-38a01a97a14c",
+        "username": "crazydog559",
+        "password": "pookie",
+        "salt": "R2rFJfWF",
+        "md5": "1b515f0fa0c1a5dffe1ce24677093dc1",
+        "sha1": "066e3ed321d8ffd06c9e11db693278c950ea4573",
+        "sha256": "6c04745138db1ef1679e7c57035ebe3bb08778e05ca1d29492ff73afbdda2489"
+      },
+      "phone": "664-612-8848",
+      "payment": {
+        "id": 8170,
+        "uid": "e111e838-6bae-4fd1-b85c-220df8482ea3",
+        "valid_card": "5200828282828210",
+        "token": "tok_amex",
+        "invalid_card": "4000000000009235",
+        "month": "07",
+        "year": "2027",
+        "ccv": "835",
+        "ccv_amex": "3782"
+      }
+    }
+]
+}
